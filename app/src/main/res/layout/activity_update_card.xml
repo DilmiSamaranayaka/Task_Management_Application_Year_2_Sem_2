@@ -28,7 +28,7 @@
         android:padding="15dp"
         android:background="@drawable/custom_edittetext"
         android:textColorHint="#BFBBBB"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         />
 
     <EditText
@@ -41,7 +41,7 @@
         android:background="@drawable/custom_edittetext"
         android:textColorHint="#BFBBBB"
         android:layout_marginBottom="15dp"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         />
 
     <LinearLayout

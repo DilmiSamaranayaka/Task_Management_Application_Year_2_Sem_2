@@ -13,6 +13,7 @@
         android:layout_height="230dp"
         android:layout_marginLeft="80dp"
         android:src="@drawable/logo"
+
         android:layout_marginRight="30dp"
         android:layout_marginTop="50dp"
         android:scaleType="fitCenter"
