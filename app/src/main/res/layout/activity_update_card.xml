@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="#1679AB"
+    android:background="#1D5D9B"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -40,6 +40,7 @@
         android:padding="15dp"
         android:background="@drawable/custom_edittetext"
         android:textColorHint="#BFBBBB"
+        android:layout_marginBottom="15dp"
         android:textColor="@color/white"
         />
 
@@ -52,6 +53,7 @@
             android:id="@+id/update_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:backgroundTint="#0E2954"
             android:text="Update"/>
 
         <View
@@ -63,7 +65,7 @@
             android:id="@+id/delete_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="#FF5722"
+            android:backgroundTint="#0E2954"
             android:text="Delete"/>
     </LinearLayout>
 
