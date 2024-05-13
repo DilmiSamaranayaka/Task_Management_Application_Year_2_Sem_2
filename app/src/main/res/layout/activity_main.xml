@@ -18,7 +18,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif"
-            android:text="Your Task"
+            android:text="Your Task1"
             android:textColor="#0E2954"
             android:textSize="40sp" />
         <Button
